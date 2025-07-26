@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cadu Barbosa</h1>
-<h3 align="center">A passionate cybersecurity architect</h3>
+<h3 align="center">A passionate cloud engineer ++ cybersecurity architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cadubarbosabr&label=Profile%20views&color=0e75b6&style=flat" alt="cadubarbosabr" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **IAM | Cloud | CyberSecurity**
 
-- 🌱 I’m currently learning **Ansible**
+- 🌱 I’m currently learning **InnerSource**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/cbarbosa9/](https://www.linkedin.com/in/cbarbosa9/)
 
