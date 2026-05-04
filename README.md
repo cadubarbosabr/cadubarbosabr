@@ -25,34 +25,56 @@ With over 15 years of experience in Information Technology across critical secto
 ### 🛠️ Languages, Tools & Frameworks
 
 **Identity & Access Management (IAM / PAM)**
-<p align="left"> 
-  <a href="https://www.sailpoint.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sailpoint/sailpoint-icon.svg" alt="sailpoint" width="40" height="40"/> </a> 
-  <a href="https://www.cyberark.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cyberark/cyberark-icon.svg" alt="cyberark" width="40" height="40"/> </a> 
-  <a href="https://www.okta.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/okta/okta-icon.svg" alt="okta" width="40" height="40"/> </a> 
-  <a href="https://www.oneidentity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/one_identity/one_identity-icon.svg" alt="one_identity" width="40" height="40"/> </a> 
-  <a href="https://azure.microsoft.com/en-us/services/active-directory/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure_active_directory" width="40" height="40"/> </a> 
+<p align="left">
+  <a href="https://www.sailpoint.com/" target="_blank" rel="noreferrer" title="SailPoint"> 
+    <img src="https://cdn.simpleicons.org/sailpoint" alt="sailpoint" width="40" height="40"/> 
+  </a>
+  <a href="https://www.cyberark.com/" target="_blank" rel="noreferrer" title="CyberArk"> 
+    <img src="https://cdn.simpleicons.org/cyberark" alt="cyberark" width="40" height="40"/> 
+  </a>
+  <a href="https://www.okta.com/" target="_blank" rel="noreferrer" title="Okta"> 
+    <img src="https://cdn.simpleicons.org/okta" alt="okta" width="40" height="40"/> 
+  </a>
+  <a href="https://www.oneidentity.com/" target="_blank" rel="noreferrer" title="One Identity"> 
+    <img src="https://cdn.simpleicons.org/oneidentity" alt="one_identity" width="40" height="40"/> 
+  </a>
+  <a href="https://azure.microsoft.com/en-us/services/active-directory/" target="_blank" rel="noreferrer" title="Azure Active Directory (Entra ID)"> 
+    <img src="https://cdn.simpleicons.org/azure" alt="azure_active_directory" width="40" height="40"/> 
+  </a>
 </p>
 
 **Microsoft Defender Suite**
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-for-cloud" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_cloud" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/security/business/identity-access/microsoft-defender-for-identity" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_identity" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_endpoint" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/security/business/email-collaboration/microsoft-defender-office-365" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_office_365" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-cloud-apps" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_cloud_apps" width="40" height="40"/> </a> 
-  <a href="https://www.microsoft.com/en-us/security/business/security-intelligence/microsoft-defender-iot" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_iot" width="40" height="40"/> </a> 
+  <a href="https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-for-cloud" target="_blank" rel="noreferrer" title="Microsoft Defender for Cloud"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_cloud" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/security/business/identity-access/microsoft-defender-for-identity" target="_blank" rel="noreferrer" title="Microsoft Defender for Identity"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_identity" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint" target="_blank" rel="noreferrer" title="Microsoft Defender for Endpoint"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_endpoint" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/security/business/email-collaboration/microsoft-defender-office-365" target="_blank" rel="noreferrer" title="Microsoft Defender for Office 365"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_office_365" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-cloud-apps" target="_blank" rel="noreferrer" title="Microsoft Defender for Cloud Apps"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_cloud_apps" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/en-us/security/business/security-intelligence/microsoft-defender-iot" target="_blank" rel="noreferrer" title="Microsoft Defender for IoT"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_iot" width="40" height="40"/> 
+  </a>
 </p>
 
 **Cloud & Infrastructure Automation**
 <p align="left">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Oracle_OCI-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle OCI"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" title="Azure"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" title="AWS"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" title="GCP"/>
+  <img src="https://img.shields.io/badge/Oracle_OCI-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle OCI" title="Oracle OCI"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" title="Terraform"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" title="Kubernetes"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" title="PowerShell"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" title="Bash"/>
 </p>
 
 ---
