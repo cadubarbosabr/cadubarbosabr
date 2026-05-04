@@ -12,13 +12,13 @@
 With over 15 years of experience in Information Technology across critical sectors like Finance, Oil & Gas, and Energy, I specialize in building, securing, and architecting high-performance environments. From structuring support playbooks to deploying zero-trust architectures, I bridge the gap between technical execution and strategic business goals.
 
 - 🔭 **Currently working on:** Advanced Identity and Access Management (IAM/PAM) environments, Multi-Cloud integrations, and integrating Generative AI (LLMs/RAGs) into corporate ecosystems.
-- 🌱 **Currently learning:** Continuous improvement, optimizing modern IAM architectures (like Ephemeral Access and JIT), and being better every day.
+- 🌱 **Currently learning:** Continuous improvement, Cyberdefense, optimizing modern IAM architectures (like NHI Ephemeral Access and JIT), and being better every day.
 - 💡 **Expertise:** Technical leadership, enterprise architecture frameworks (TOGAF, DDD, EDD, BPMN), and aligning infrastructure with rigorous security and regulatory standards (NIST, OWASP, MITRE, ANP, ANEEL).
 - 🎓 **Background:** MBA in IT Management from FIAP. Fluent in English and Spanish for international strategic communication.
 - 📝 **Writing:** I regularly publish articles on my [Blog](http://cadubarbosa.com.br/blog/).
 - 📫 **More about me:** Check out my [Portfolio](https://cadubarbosa.com.br/sobre-mim/).
 - 📗 **Certifications:** [Credly](https://www.credly.com/users/carlos-eduardo-barbosa-da-silva/badges#credly)
-- 💬 **Ask me about:** CyberArk configurations (safes, policies, onboarding), Cloud Security, IAM governance, or scaling operations from zero.
+- 💬 **Ask me about:** *Microsoft Azure Architecture, Cloud Security, IAM governance, or scaling operations from zero.*
 - ⚡ **Fun fact:** I'm *Carioca da Gema* 🏖️
 
 ---
