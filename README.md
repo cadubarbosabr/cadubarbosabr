@@ -23,8 +23,8 @@ Over 15 years of experience in Information Technology building, securing, and ar
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
+### 🛠️ Languages and Tools 
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/></a>
