@@ -26,7 +26,11 @@ With over 15 years of experience in Information Technology across critical secto
 ### 🛠️ Languages, Tools & Frameworks
 
 **Identity & Access Management (IAM / PAM)**
-<img src= https://cadubarbosa.com.br/wp-content/uploads/2025/10/SailPoint-Professional-Certification-and-Credentialing-Program-SailPoint-Identity-Security-Leader-Credential-2025-09-12-2-150x150.png />
+<p align="left">
+  <img src= https://cadubarbosa.com.br/wp-content/uploads/2025/10/SailPoint-Professional-Certification-and-Credentialing-Program-SailPoint-Identity-Security-Leader-Credential-2025-09-12-2-150x150.png />
+  </a> 
+</p>
+
 
 **Microsoft Defender Suite**
 https://cadubarbosa.com.br/wp-content/uploads/2024/12/Picture1.png
