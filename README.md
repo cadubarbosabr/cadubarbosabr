@@ -17,6 +17,7 @@ With over 15 years of experience in Information Technology across critical secto
 - 🎓 **Background:** MBA in IT Management from FIAP. Fluent in English and Spanish for international strategic communication.
 - 📝 **Writing:** I regularly publish articles on my [Blog](http://cadubarbosa.com.br/blog/).
 - 📫 **More about me:** Check out my [Portfolio](https://cadubarbosa.com.br/sobre-mim/).
+- 📗 **Certifications:** https://www.credly.com/users/carlos-eduardo-barbosa-da-silva/badges#credly
 - 💬 **Ask me about:** CyberArk configurations (safes, policies, onboarding), Cloud Security, IAM governance, or scaling operations from zero.
 - ⚡ **Fun fact:** I'm *Carioca da Gema* 🏖️
 
@@ -25,13 +26,13 @@ With over 15 years of experience in Information Technology across critical secto
 ### 🛠️ Languages, Tools & Frameworks
 
 **Identity & Access Management (IAM / PAM)**
-
+https://cadubarbosa.com.br/wp-content/uploads/2025/10/SailPoint-Professional-Certification-and-Credentialing-Program-SailPoint-Identity-Security-Leader-Credential-2025-09-12-2-150x150.png
 
 **Microsoft Defender Suite**
-
+https://cadubarbosa.com.br/wp-content/uploads/2024/12/Picture1.png
 
 **Cloud & Infrastructure Automation**
-
+https://cadubarbosa.com.br/wp-content/uploads/2024/12/Picture6-150x150.jpg
 
 ---
 
