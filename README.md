@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cadu Barbosa</h1>
-<h3 align="center">Technology Manager | Cloud Engineer & Cybersecurity Architect</h3>
+<h3 align="center">Technology Manager | Cloud Engineer & Cybersecurity Architect | ISO27001 Auditor </h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=cadubarbosabr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
@@ -24,7 +24,7 @@ Over 15 years of experience in Information Technology building, securing, and ar
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/></a>
