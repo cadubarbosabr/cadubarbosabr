@@ -25,12 +25,12 @@ With over 15 years of experience in Information Technology across critical secto
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/></a>
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/></a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
 </p>
 
 ### 🚀 Vibe Code Projects
