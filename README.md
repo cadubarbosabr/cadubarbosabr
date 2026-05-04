@@ -34,14 +34,14 @@ With over 15 years of experience in Information Technology across critical secto
 
 **Microsoft Azure & Defender Suite**
 <p align="left">
-  <img src= https://cadubarbosa.com.br/wp-content/uploads/2024/12/Picture1.png/>
+  <img src= [https://cadubarbosa.com.br/wp-content/uploads/2024/12/Picture1.png](https://cadubarbosa.com.br/wp-content/uploads/2024/12/Picture1.png)/>
   </a> 
 </p>
 
 
 **Cloud & Infrastructure Automation**
 <p align="left">
-  <img src= https://cadubarbosa.com.br/wp-content/uploads/2024/12/Picture6-150x150.jpg/>
+  <img src= [https://cadubarbosa.com.br/wp-content/uploads/2024/12/Picture6-150x150.jpg](https://cadubarbosa.com.br/wp-content/uploads/2024/12/Picture1.png)/>
   </a> 
 </p>
 
