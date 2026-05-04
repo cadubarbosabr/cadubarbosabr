@@ -6,15 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cadubarbosabr" alt="cadubarbosabr" /></a> </p>
 
 - 🔭 I’m currently working on **IAM | Cloud | CyberSecurity**
-
-- 🌱 I’m currently learning **InnerSource**
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/cbarbosa9/](https://www.linkedin.com/in/cbarbosa9/)
-
+- 🌱 I’m currently learning **how to be better everyday**
+- 📝 I regularly write articles on [http://cadubarbosa.com.br/blog](http://cadubarbosa.com.br/blog/)
+- 📫 [Find more about me](https://cadubarbosa.com.br/sobre-mim/)
 - 💬 Ask me about **IAM | Cloud | CyberSecurity**
-
-- 📫 How to reach me **sicwnb@gmail.com**
-
+- 📧 How to reach me **sicwnb@outlook.com**
 - ⚡ Fun fact **I'm Carioca da Gema**
 
 <h3 align="left">Connect with me:</h3>
@@ -23,9 +19,29 @@
 <a href="https://medium.com/@cadubarbosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cadubarbosa" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<h3 align="left">Projects</h3>
+<ul>
+  <li><a href="https://slider-clock.vercel.app/">Slider Clock</a></li>
+  <li><a href="https://calcula-porcentagem.vercel.app/">Calcula Porcentagem</a></li>
+  <li><a href="https://imperium-romanum.vercel.app/">Imperium Romanum</a></li>
+  <li><a href="https://dota2-pick-list.vercel.app/">Dota 2 Pick List</a></li>
+</ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cadubarbosabr&show_icons=true&locale=en&layout=compact" alt="cadubarbosabr" /></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="Sailpoint Identity Manager" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sailpoint/sailpoint-icon.svg" alt="sailpoint" width="40" height="40"/> </a> 
+<a href="CyberArk" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cyberark/cyberark-icon.svg" alt="cyberark" width="40" height="40"/> </a> 
+<a href="Okta" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/okta/okta-icon.svg" alt="okta" width="40" height="40"/> </a> 
+<a href="One Identity Manager" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/one_identity/one_identity-icon.svg" alt="one_identity" width="40" height="40"/> </a> 
+<a href="Azure Active Directory" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure_active_directory" width="40" height="40"/> </a> 
+</p>
+<p align="left"> 
+<a href="Microsoft Defender for Cloud" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_defender_for_cloud/microsoft_defender_for_cloud-icon.svg" alt="microsoft_defender_for_cloud" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/security/business/microsoft-defender-for-identity" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_defender_for_identity/microsoft_defender_for_identity-icon.svg" alt="microsoft_defender_for_identity" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/security/business/microsoft-defender-for-endpoint" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_defender_for_endpoint/microsoft_defender_for_endpoint-icon.svg" alt="microsoft_defender_for_endpoint" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/security/business/microsoft-defender-for-office-365" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_defender_for_office_365/microsoft_defender_for_office_365-icon.svg" alt="microsoft_defender_for_office_365" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/security/business/microsoft-defender-for-cloud-apps" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_defender_for_cloud_apps/microsoft_defender_for_cloud_apps-icon.svg" alt="microsoft_defender_for_cloud_apps" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/security/business/microsoft-defender-for-iot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_defender_for_iot/microsoft_defender_for_iot-icon.svg" alt="microsoft_defender_for_iot" width="40" height="40"/> </a> 
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cadubarbosabr&show_icons=true&locale=en" alt="cadubarbosabr" /></p>
