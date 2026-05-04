@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-With over 15 years of experience in Information Technology across critical sectors like Finance, Oil & Gas, and Energy, I specialize in building, securing, and architecting high-performance environments. From structuring support playbooks to deploying zero-trust architectures, I bridge the gap between technical execution and strategic business goals.
+Over 15 years of experience in Information Technology building, securing, and architecting high-performance environments. From structuring support playbooks to deploying zero-trust architectures, I bridge the gap between technical execution and strategic business goals.
 
 - 🔭 **Currently working on:** Advanced Identity and Access Management (IAM/PAM) environments, Multi-Cloud integrations, and integrating Generative AI (LLMs/RAGs) into corporate ecosystems.
 - 🌱 **Currently learning:** Continuous improvement, Cyberdefense, optimizing modern IAM architectures (like NHI Ephemeral Access and JIT), and being better every day.
@@ -48,10 +48,6 @@ With over 15 years of experience in Information Technology across critical secto
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=cadubarbosabr&theme=radical&margin-w=15&column=7" alt="Trophies" />
   </a> 
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cadubarbosabr&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
