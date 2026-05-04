@@ -36,12 +36,25 @@
 <a href="Azure Active Directory" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure_active_directory" width="40" height="40"/> </a> 
 </p>
 <p align="left"> 
-<a href="Microsoft Defender for Cloud" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_defender_for_cloud/microsoft_defender_for_cloud-icon.svg" alt="microsoft_defender_for_cloud" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/security/business/microsoft-defender-for-identity" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_defender_for_identity/microsoft_defender_for_identity-icon.svg" alt="microsoft_defender_for_identity" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/security/business/microsoft-defender-for-endpoint" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_defender_for_endpoint/microsoft_defender_for_endpoint-icon.svg" alt="microsoft_defender_for_endpoint" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/security/business/microsoft-defender-for-office-365" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_defender_for_office_365/microsoft_defender_for_office_365-icon.svg" alt="microsoft_defender_for_office_365" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/security/business/microsoft-defender-for-cloud-apps" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_defender_for_cloud_apps/microsoft_defender_for_cloud_apps-icon.svg" alt="microsoft_defender_for_cloud_apps" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/security/business/microsoft-defender-for-iot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_defender_for_iot/microsoft_defender_for_iot-icon.svg" alt="microsoft_defender_for_iot" width="40" height="40"/> </a> 
+<p>
+<a href="https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-for-cloud" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_cloud" width="40" height="40"/> 
+</a> 
+<a href="https://www.microsoft.com/en-us/security/business/identity-access/microsoft-defender-for-identity" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_identity" width="40" height="40"/> 
+</a> 
+<a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_endpoint" width="40" height="40"/> 
+</a> 
+<a href="https://www.microsoft.com/en-us/security/business/email-collaboration/microsoft-defender-office-365" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_office_365" width="40" height="40"/> 
+</a> 
+<a href="https://www.microsoft.com/en-us/security/business/cloud-security/microsoft-defender-cloud-apps" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_cloud_apps" width="40" height="40"/> 
+</a> 
+<a href="https://www.microsoft.com/en-us/security/business/security-intelligence/microsoft-defender-iot" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Windows-defender.svg" alt="microsoft_defender_for_iot" width="40" height="40"/> 
+</a> 
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cadubarbosabr&show_icons=true&locale=en" alt="cadubarbosabr" /></p>
