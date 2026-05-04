@@ -34,7 +34,7 @@ With over 15 years of experience in Information Technology across critical secto
 
 **Microsoft Azure & Defender Suite**
 <p align="left">
-  <img src= [https://cadubarbosa.com.br/wp-content/uploads/2024/12/Picture1.png](https://cadubarbosa.com.br/wp-content/uploads/2024/12/Picture1.png)/>
+  <img src= https://predoignacio.medium.com/az-305-microsoft-azure-solutions-architect-expert-9f128e98090f>
   </a> 
 </p>
 
